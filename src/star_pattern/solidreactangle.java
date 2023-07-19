@@ -1,3 +1,4 @@
+
 package star_pattern;
 
 public class solidreactangle {

@@ -5,7 +5,7 @@ public class find_largest_num
 	public static void main(String[] args) {
 		
 	
-int num=12347;
+int num=912347;
 int largest_digit=0;//
 
 for(int i=num;i>0;i=i/10)//1234.7,123,12,1
