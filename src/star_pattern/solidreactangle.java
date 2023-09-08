@@ -40,7 +40,7 @@ public static void pattern3() {
 				System.out.print("* ");
 			}
 			else {
-				System.out.print(" ");
+				System.out.print("  ");
 			}
 			
 		}

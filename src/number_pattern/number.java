@@ -21,6 +21,7 @@ public class number {
 			{
 				System.out.print(j+" ");
 				
+				
 			}
 			System.out.println(" ");
 		}

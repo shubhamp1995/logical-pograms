@@ -10,13 +10,13 @@ public class inverted_star {
 			}
 			for(int k=1; k<=i; k++)
 			{
-				System.out.print(" *");
+				System.out.print("* ");
 			}
 			System.out.println(" ");
 			
 		
 	}
-		for(int i=1; i<=10; i++)
+		for(int i=2; i<=10; i++)
 		{
 			for(int j=9; j>=i; j--)
 			{
@@ -24,7 +24,7 @@ public class inverted_star {
 			}
 			for(int k=1; k<=i; k++)
 			{
-				System.out.print(" *");
+				System.out.print("* ");
 			}
 			System.out.println("");
 	}

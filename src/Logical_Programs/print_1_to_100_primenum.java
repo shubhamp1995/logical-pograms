@@ -9,7 +9,7 @@ public class print_1_to_100_primenum {
 		{
 			
 			int count=0;//1
-			for(int j=2;j<=i;j++)//2<1
+			for(int j=2;j<i;j++)//2<1
 			{
 				if(i%j==0)
 				{
